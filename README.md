@@ -1,4 +1,4 @@
-<img src="./assets/world-builder.svg" width="100%" alt="Kiribanu371 — Даня, Roblox Developer / Level Designer" />
+<img src="https://raw.githubusercontent.com/Kiribanu371/Kiribanu371/6f5daeb20ae8028741d2955d83768026de84e03d/assets/world-builder.svg" width="100%" alt="Kiribanu371 — Даня, Roblox Developer / Level Designer" />
 
 <br/>
 
