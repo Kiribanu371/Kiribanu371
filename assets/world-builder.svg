@@ -1,21 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="540" viewBox="0 0 1280 540">
-<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b8ff45" stroke-opacity=".075"/></pattern><linearGradient id="fade"><stop stop-color="#b8ff45"/><stop offset="1" stop-color="#39d9be"/></linearGradient></defs>
-<rect width="1280" height="540" rx="20" fill="#101714"/><rect width="1280" height="540" rx="20" fill="url(#g)"/>
-<path d="M32 76V32h44M1204 32h44v44M32 464v44h44M1204 508h44v-44" fill="none" stroke="#b8ff45" stroke-width="2"/>
-<circle cx="65" cy="72" r="5" fill="#b8ff45"/><text x="83" y="77" fill="#b8ff45" font-family="monospace" font-size="14" letter-spacing="3">KIRIBANU371 / WORLD BUILDER</text>
-<text x="60" y="166" fill="#f0f4eb" font-family="Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="-3">I BUILD WORLDS</text>
-<text x="60" y="243" fill="#b8ff45" font-family="Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="-3">WORTH GETTING</text>
-<text x="60" y="320" fill="#b8ff45" font-family="Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="-3">LOST IN.</text>
-<text x="64" y="370" fill="#a7b6aa" font-family="Arial, sans-serif" font-size="19">Roblox developer. Map designer. Creative mind.</text>
-<path d="M64 406h655" stroke="#334435"/><text x="64" y="443" fill="#e7eee2" font-family="monospace" font-size="14" letter-spacing="2">CONCEPT → BLOCKOUT → ATMOSPHERE → PLAY</text>
-<text x="64" y="483" fill="#748779" font-family="monospace" font-size="12" letter-spacing="2">IMAGINATION IS THE STARTING POINT.</text>
-<g transform="translate(957 277)" stroke-linejoin="round">
-<path d="M-170 76 0-22 170 76 0 174Z" fill="#1b2c21" stroke="#597a51"/>
-<path d="M-136 56 0-23 136 56 0 135Z" fill="none" stroke="#b8ff45" stroke-dasharray="5 6"/>
-<path d="M-95 15-37-19 21 15-37 49Z" fill="#b8ff45"/><path d="M-95 15v65l58 34V49Z" fill="#476d32"/><path d="M-37 49 21 15v65l-58 34Z" fill="#7fae47"/>
-<path d="M-6-50 52-84 110-50 52-16Z" fill="#d6ff9c"/><path d="M-6-50V61l58 34V-16Z" fill="#6c9847"/><path d="M52-16 110-50V61L52 95Z" fill="#a7dc67"/>
-<path d="M-6-50 52-84 110-50M52-84v-43" fill="none" stroke="#b8ff45" stroke-width="2"/>
-<path d="M-170 76v-158M170 76v-158M-170-65 0-163 170-65" fill="none" stroke="#3b5540" stroke-dasharray="4 7"/>
-<circle cy="-163" r="4" fill="#b8ff45"/>
-<text x="-82" y="219" fill="#9db18f" font-family="monospace" font-size="11" letter-spacing="3">DESIGNED TO BE PLAYED</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect width="1200" height="360" fill="#f2efe8"/>
+<text x="48" y="48" font-family="Arial, sans-serif" font-size="14" fill="#53534f" letter-spacing="2">ROBLOX DEVELOPER / LEVEL DESIGNER</text>
+<text x="42" y="169" font-family="Arial, Helvetica, sans-serif" font-size="103" font-weight="700" letter-spacing="-6" fill="#20221f">Kiribanu371</text>
+<text x="48" y="218" font-family="Arial, sans-serif" font-size="23" fill="#4d4e47">Карты, игровые системы и всё, что их связывает.</text>
+<path d="M48 270H762" stroke="#cac8bf"/>
+<text x="48" y="309" font-family="Arial, sans-serif" font-size="15" fill="#53534f">Даня</text>
+<text x="762" y="309" text-anchor="end" font-family="monospace" font-size="12" fill="#53534f" letter-spacing="1">CODE + ENVIRONMENT</text>
+<g transform="translate(846 36)">
+<rect width="288" height="288" fill="#3153df"/>
+<g fill="none" stroke="#fff" stroke-width="1" opacity=".23"><path d="M0 48h288M0 96h288M0 144h288M0 192h288M0 240h288M48 0v288M96 0v288M144 0v288M192 0v288M240 0v288"/></g>
+<path d="M42 58h88v58h42V58h74v172h-74v-66h-42v66H42Z" fill="#f2efe8"/>
+<path d="M64 82h44v124H64ZM194 82h30v124h-30Z" fill="#3153df"/>
+<path d="M22 18h16M30 10v16M250 266h16M258 258v16" stroke="#fff" stroke-width="1"/>
+<path d="M64 247h160M64 242v10M224 242v10" stroke="#fff" stroke-width="1" opacity=".65"/>
+<circle cx="151" cy="142" r="5" fill="#3153df"/>
+</g>
+</svg>
