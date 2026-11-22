@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="540" viewBox="0 0 1280 540">
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b8ff45" stroke-opacity=".075"/></pattern><linearGradient id="fade"><stop stop-color="#b8ff45"/><stop offset="1" stop-color="#39d9be"/></linearGradient></defs>
+<rect width="1280" height="540" rx="20" fill="#101714"/><rect width="1280" height="540" rx="20" fill="url(#g)"/>
+<path d="M32 76V32h44M1204 32h44v44M32 464v44h44M1204 508h44v-44" fill="none" stroke="#b8ff45" stroke-width="2"/>
+<circle cx="65" cy="72" r="5" fill="#b8ff45"/><text x="83" y="77" fill="#b8ff45" font-family="monospace" font-size="14" letter-spacing="3">KIRIBANU371 / WORLD BUILDER</text>
+<text x="60" y="166" fill="#f0f4eb" font-family="Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="-3">I BUILD WORLDS</text>
+<text x="60" y="243" fill="#b8ff45" font-family="Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="-3">WORTH GETTING</text>
+<text x="60" y="320" fill="#b8ff45" font-family="Arial, sans-serif" font-size="70" font-weight="900" letter-spacing="-3">LOST IN.</text>
+<text x="64" y="370" fill="#a7b6aa" font-family="Arial, sans-serif" font-size="19">Roblox developer. Map designer. Creative mind.</text>
+<path d="M64 406h655" stroke="#334435"/><text x="64" y="443" fill="#e7eee2" font-family="monospace" font-size="14" letter-spacing="2">CONCEPT → BLOCKOUT → ATMOSPHERE → PLAY</text>
+<text x="64" y="483" fill="#748779" font-family="monospace" font-size="12" letter-spacing="2">IMAGINATION IS THE STARTING POINT.</text>
+<g transform="translate(957 277)" stroke-linejoin="round">
+<path d="M-170 76 0-22 170 76 0 174Z" fill="#1b2c21" stroke="#597a51"/>
+<path d="M-136 56 0-23 136 56 0 135Z" fill="none" stroke="#b8ff45" stroke-dasharray="5 6"/>
+<path d="M-95 15-37-19 21 15-37 49Z" fill="#b8ff45"/><path d="M-95 15v65l58 34V49Z" fill="#476d32"/><path d="M-37 49 21 15v65l-58 34Z" fill="#7fae47"/>
+<path d="M-6-50 52-84 110-50 52-16Z" fill="#d6ff9c"/><path d="M-6-50V61l58 34V-16Z" fill="#6c9847"/><path d="M52-16 110-50V61L52 95Z" fill="#a7dc67"/>
+<path d="M-6-50 52-84 110-50M52-84v-43" fill="none" stroke="#b8ff45" stroke-width="2"/>
+<path d="M-170 76v-158M170 76v-158M-170-65 0-163 170-65" fill="none" stroke="#3b5540" stroke-dasharray="4 7"/>
+<circle cy="-163" r="4" fill="#b8ff45"/>
+<text x="-82" y="219" fill="#9db18f" font-family="monospace" font-size="11" letter-spacing="3">DESIGNED TO BE PLAYED</text>
+</g></svg>
